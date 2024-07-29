@@ -36,7 +36,7 @@
 1. Клонируйте репозиторий и перейдите в него в командной строке:
 
 ```
-git clone https://github.com/RomanKostikov/tree_menu.git
+https://github.com/yaroslaizerone/Tree-Menu.git
 ```
 
 2. Установите и активируйте виртуальное окружение:
